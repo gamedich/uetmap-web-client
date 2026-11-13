@@ -1,0 +1,25 @@
+{
+  "name": "Ульяновск Трамвай — Пассажир (BETA)",
+  "short_name": "Трамвай Beta",
+  "start_url": "/beta/public",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "description": "Бета-версия пассажирского приложения УльяновскЭлектроТранс с тестовыми функциями и оффлайн-кэшем.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%237c3aed'/%3E%3Cpath d='M46 54 C46 42 56 36 96 36 C136 36 146 42 146 54 L146 122 C146 136 134 144 122 144 L132 156 L118 156 L110 144 L82 144 L74 156 L60 156 L70 144 C58 144 46 136 46 122 Z' fill='%23ffffff'/%3E%3Crect x='58' y='52' width='76' height='42' rx='6' fill='%230b0f19'/%3E%3Ccircle cx='70' cy='122' r='8' fill='%237c3aed'/%3E%3Ccircle cx='122' cy='122' r='8' fill='%237c3aed'/%3E%3Cline x1='96' y1='22' x2='96' y2='36' stroke='%23ffffff' stroke-width='6' stroke-linecap='round'/%3E%3Cline x1='76' y1='22' x2='116' y2='22' stroke='%23ffffff' stroke-width='6' stroke-linecap='round'/%3E%3Crect x='110' y='14' width='68' height='26' rx='8' fill='%23f59e0b' stroke='%23ffffff' stroke-width='2'/%3E%3Ctext x='144' y='32' fill='%230f172a' font-family='sans-serif' font-weight='900' font-size='14' text-anchor='middle'%3EBETA%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%237c3aed'/%3E%3Cpath d='M122 144 C122 112 148 96 256 96 C364 96 390 112 390 144 L390 325 C390 362 358 384 326 384 L352 416 L314 416 L294 384 L218 384 L198 416 L160 416 L186 384 C154 384 122 362 122 325 Z' fill='%23ffffff'/%3E%3Crect x='154' y='138' width='204' height='112' rx='16' fill='%230b0f19'/%3E%3Ccircle cx='186' cy='325' r='22' fill='%237c3aed'/%3E%3Ccircle cx='326' cy='325' r='22' fill='%237c3aed'/%3E%3Cline x1='256' y1='58' x2='256' y2='96' stroke='%23ffffff' stroke-width='16' stroke-linecap='round'/%3E%3Cline x1='202' y1='58' x2='310' y2='58' stroke='%23ffffff' stroke-width='16' stroke-linecap='round'/%3E%3Crect x='290' y='36' width='180' height='70' rx='20' fill='%23f59e0b' stroke='%23ffffff' stroke-width='6'/%3E%3Ctext x='380' y='86' fill='%230f172a' font-family='sans-serif' font-weight='900' font-size='38' text-anchor='middle'%3EBETA%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
